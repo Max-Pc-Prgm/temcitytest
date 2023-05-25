@@ -1,0 +1,3 @@
+pip3 -install tableau_api_lib
+
+pip3 install openpyxl
