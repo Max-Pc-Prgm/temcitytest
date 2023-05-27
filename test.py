@@ -3,7 +3,7 @@ import os
 num1 = 1.5
 num2 = 6.3
 
-# Add two number
+# Add two numbe
 sum = num1 + 
 
 # Display the sum
