@@ -11,6 +11,6 @@ print('The sum of {0} and {1} is {2}'.format(num1, num2, sum))
 
 # Access the system parameter as an environment variable
 
-parameter_value = os.environ.get("1")
+parameter_value = os.environ.get("test")
 # Use the system parameter in your script
 print(parameter_value)
